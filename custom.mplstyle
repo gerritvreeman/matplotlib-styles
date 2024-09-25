@@ -1,0 +1,6 @@
+font.size : 14
+xtick.top : True
+xtick.minor.visible : True
+ytick.right : True
+ytick.minor.visible : True
+errorbar.capsize : 4

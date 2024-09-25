@@ -1,0 +1,20 @@
+# BG
+figure.facecolor: "fdf6e3"
+axes.facecolor: "fdf6e3"
+# FG
+figure.edgecolor: "657b83"
+axes.edgecolor: "657b83"
+axes.labelcolor: "657b83"
+text.color: "657b83"
+xtick.color: "657b83"
+ytick.color: "657b83"
+hatch.color: "657b83"
+patch.edgecolor: "657b83"
+boxplot.flierprops.color: "657b83"
+boxplot.boxprops.color: "657b83"
+boxplot.whiskerprops.color: "657b83"
+boxplot.capprops.color: "657b83"
+# Grid
+grid.color: "93a1a1"
+# Lines
+axes.prop_cycle: cycler('color', [ '859901', '2aa198', '268bd2', '6c71c4', 'd33682', 'dc322f', 'cb4b16', '93a1a1', '586e75' ])

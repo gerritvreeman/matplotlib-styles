@@ -1,0 +1,7 @@
+xtick.major.width: 1.5
+xtick.minor.width: 1.0
+ytick.major.width: 1.5
+ytick.minor.width: 1.0
+axes.linewidth: 1.5
+patch.linewidth: 1.5
+hatch.linewidth: 1.5
